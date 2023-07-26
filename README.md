@@ -27,6 +27,18 @@
 
 This repo holds the website for https://gewch.vercel.app/ The website is built with:
 
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blueviolet)](https://tailwindcss.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-lightgrey)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://www.typescriptlang.org/)
+[![Dato CMS](https://img.shields.io/badge/Dato%20CMS-brightgreen)](https://www.datocms.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-e10098)](https://graphql.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-green)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)](https://www.mongodb.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/)
+[![AWS (Amazon Web Services)](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)](https://aws.amazon.com/)
+
+
 ## Tech Stack
 
 Front-end:
