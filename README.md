@@ -1,7 +1,7 @@
 <h1 align="center"> Gewch</h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="Gwech" title="Gewch" src="https://i.imgur.com/oz1tyKh.png" >
+  <a href="">
+    <img alt="Gwech" title="Gewch" src="https://imgur.com/Bkjmf9a.png" >
   </a>
 </p>
 
